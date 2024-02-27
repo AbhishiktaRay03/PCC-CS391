@@ -1,5 +1,5 @@
-# ESCS291-C-CODES
-Here are some C programs that I did for the ESCS-291 paper of the 2nd semester in the 1st year curriculum of BTech CSE.
+# PCC-CS391-C-CODES
+Here are some C programs that I did for the PCC-CS391 assignments of the 3rd semester in the 2nd year curriculum of BTech CSE along with some practice codes of my own.
 
 ## How to Install
 
