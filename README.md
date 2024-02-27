@@ -1,2 +1,36 @@
-This repository contains all my codes for DSA required for lab assignments. Along with that, I have included some programs that I practiced by myself.
-For students currently enrolled in a similar curriculum, this repository serves as a valuable learning resource. They can refer to the code implementations to deepen their understanding of concepts covered in lectures and textbooks. Aspiring programmers and enthusiasts can use this repository as a source of practice material. By studying and experimenting with the provided codes, they can hone their coding skills and gain hands-on experience in implementing data structures and algorithms.The algorithms and problem-solving techniques demonstrated in this repository can aid individuals in improving their problem-solving abilities. By analyzing different approaches to tackling problems, users can broaden their problem-solving toolkit and become more adept at devising efficient solutions. Users are encouraged to contribute to the repository by sharing their own implementations, suggesting improvements, or providing feedback. This fosters a collaborative learning environment where individuals can learn from each other's insights and experiences.
+Here are some C programs that I did for the DSA paper of the 3rd semester in the 2nd year curriculum of BTech CSE.
+
+How to Install
+Create a C virtual environment.
+Clone the repo : git clone https://github.com/AbhishiktaRay03/PCC-CS391.git or download the repository.
+Go to the cloned/downloaded directory cd <folder_name>.
+Run pip3 install gcc.
+And now you can run the example scripts or create your own scripts.
+Usage
+To run any program (without <math.h>), run  gcc filename.c -o name, where filename is the name of the file you are wanting to execute; name = output executable file.
+
+Then type  ./name, and then press Enter to execute successfully.
+
+To run any program (with <math.h>), run  gcc filename.c -lm, where filename is the name of the file you are wanting to execute.
+
+Then type  ./a.out, and then press Enter to execute successfully.
+
+FAQ
+How to stop the script? Ctrl+C (control+C for Mac)
+For any other problems, feel free to raise an issue.
+Contribution
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+License
+Apache License © 
+
+Where to contact ?
+Contact: [abhishiktawork22@gmail.com]
+
+🙋‍♂️ Support
+💙 If you like this project, give it a ⭐ and share it with friends!
+
+
+Made with ❤️ by AR
